@@ -1,0 +1,53 @@
+.po{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    background-color: white;
+    height: 35px;
+    width: 100%;
+}
+.lo{
+    border: 1px solid black;
+    border-bottom-width: 3px;
+    border-bottom-color: blue;
+    width: 24%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mo{
+    position: relative;
+    top: 15px;
+}
+img{
+    width: 100%;
+    height: 450px;
+}
+.co{
+    width: 100%;
+    height: 35px;
+    border: 4px;
+    border-bottom-color:black;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 30px;
+}
+.vo{
+    width: 78%;
+    height: 30px;
+    border: 3px solid white;
+    position: relative;
+    right: 6px;
+    background-color: white;
+}
+.ao{
+    width: 19%;
+    height: 30px;
+    border: 3px solid rgb(255, 255, 255);
+    background-color: white;
+}
+body{
+    background-color: gray;
+}

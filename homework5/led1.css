@@ -1,0 +1,205 @@
+.op{
+    background-color: gray;
+    width: 400px;
+    height: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+}
+.bon{
+    border: 5px solid blue;
+    width: 320px;
+    height: 370px;
+}
+.ter{
+background-color: rgba(0, 204, 255, 0.975);
+width: 320px;
+height: 25px;
+}
+.ler{
+    background-color: green;
+    width: 320px;
+    height: 325px;
+}
+.wer{
+    background-color: rgba(0, 204, 255, 0.975);
+    width: 320px;
+    height: 25px;
+}
+.rom{
+    background-color: gray;
+    width: 700px;
+height: 300px;
+display: flex;
+}
+.uro{
+    background-color: pink;
+    width: 600px;
+    height: 150px;
+    color: white;
+    text-align: center;
+   vertical-align: middle;
+}
+.jak{
+    background-color: blue;
+    width: 600px;
+    height: 150px;
+    color: white;
+    text-align: center;
+   vertical-align: middle;
+}
+.sha{
+    background-color: orange;
+    width: 600px;
+    height: 150px;
+    color: white;
+    text-align: center;
+vertical-align: middle;
+}
+.up{
+    background-color: green;
+    width: 600px;
+    height: 150px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: -150px;
+    right: 524px;
+vertical-align: middle;
+}
+.lor{
+    background-color: red;
+    width: 550px;
+    height: 500px;
+    position: relative;
+    bottom: -500px;
+    right: -275px;
+}
+.pol{
+    background-color: green;
+    width: 400px;
+    height: 280px;
+}
+.uk{
+    background-color: blue;
+    width: 600px;
+    height: 280px;
+}
+.svar{
+    position: relative;
+    top: -500px;
+}
+.mod{
+    width: 400px;
+    height: 50px;
+    background-color: red;
+}
+.sky{
+    width: 350px;
+    height: 100px;
+    background-color: blue;
+}
+.lma{
+    width: 50px;
+    height: 100px;
+    background-color: green;
+    position: relative;
+    top: -100px;
+    right: -350px;
+}
+.rum{
+    background-color: greenyellow;
+    width: 400px;
+    height: 380px;
+    text-align: right;
+}
+div .dus{
+    background-color: pink;
+    width: 180px;
+    height: 280px;
+    position: relative;
+    top: -356px;
+}
+.yun{
+    background-color: blue;
+    width: 700px;
+    height: 70px;
+}
+.svakha{
+    background-color: blue;
+width: 700px;
+height: 70px;
+margin: 10px 0px;
+}
+.boz{
+    background-color: blue;
+    width: 180px;
+    height: 400px;
+}
+.ofic{
+    background-color: blue;
+    width: 490px;
+    height: 400px;
+    position: relative;
+    left: 210px;
+    top: -400px;
+}
+.roki{
+    background-color: aqua;
+    width: 270px;
+    height: 150px;
+    position: relative;
+    left: 115px;
+    top: 115px;
+}
+.serb{
+    background-color: blue;
+    width: 700px;
+    height: 70px;
+    position: relative;
+    top: -390px;
+}
+.conteiner3{
+    border: 2px solid black;
+    width: 800px;
+    height: 200px;
+}
+.contentgrey{
+    background-color: gray;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.webzik{
+    color: white;
+    top: 10px;
+    left: 120px;
+    padding-left: 70px;
+}
+.sect{
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 37px;
+    height: 5%;
+}
+.conteiner4{
+    background-color: aqua;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    position: relative;
+    bottom: 21px;
+}
+.text{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
